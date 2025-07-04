@@ -1,2 +1,4 @@
 # Immersed-Interface-Methods
-Immersed Interface Methods for different dimensions and jump conditions
+mainly about Immersed Interface Methods for different dimensions and jump conditions
+
+Mainly introducing the solution of elliptic equations with interface problems by the immersed interface method, considering different cases such as one-dimensional and two-dimensional, conventional jump conditions and Robin jump conditions, giving the derivation process of the corresponding numerical schemes, and finally carrying out numerical verification on the overall error order.
